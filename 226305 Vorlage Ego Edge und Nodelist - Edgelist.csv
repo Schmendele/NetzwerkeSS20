@@ -1,0 +1,6 @@
+from,to,weight,duration,relationship
+Samuel,Ruben,3,1,6
+Samuel,Luca,3,1,6
+Samuel,Lucie,3,3,4
+Samuel,Emma,4,1,9
+Ruben,Luca,3,NA,NA
