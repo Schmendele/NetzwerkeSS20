@@ -1,0 +1,14 @@
+CODEBUCH Testat Kohle,
+Wert,Kommentar
+edgelist,
+from,"definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort"
+to ,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. "
+nodelist,
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  "
+type,"(0 = person, 1 = organization)"
+sex,(0 = male 1= female 2 = divers
+age,"(0 = 20-30, 1=30-40, 2= 40-50, 3= 50-60, 4=60-70, 5=70-80, 6=80-90, 7= 90+"
+party,"(0 = Union, 1= SPD, 2= GRÜN, 3= FDP, 4=Linke, 5=AFD)"
+representation,"(0 = politik, 1 = Wirtschaft, 2 = Gewerkschaft, 3 = Umwelt, 4 = Region, 5 = Wissenschaft)"
+position,"(0 = Vorstand, 1 = Mitglied, 2 = kein Stimmrecht)"
+state,(Verortung nach Bundesländern) 1 = Baden-Württemberg 2 = Bayern 3 = Berlin 4 = Brandenburg 5 = Bremen 6 = Hamburg 7 = Hessen 8 = Mecklenburg-Vorpommern 9 = Niedersachsen 10 = Nordrhein-Westfahlen 11 = Rheinland-Pfalz 12 = Saarland 13 = Sachsen 14 = Sachsen-Anhalt 15 = Schleswig-Holstein 16 = Thüringen
